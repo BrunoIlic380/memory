@@ -1,0 +1,9 @@
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\bin\Debug\CateiaMemory.exe.config
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\bin\Debug\CateiaMemory.exe
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\bin\Debug\CateiaMemory.pdb
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.csprojResolveAssemblyReference.cache
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.GameWindow.resources
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.Properties.Resources.resources
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.csproj.GenerateResource.Cache
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.exe
+C:\Users\Tyr\Documents\Visual Studio 2017\Projects\CateiaMemory\CateiaMemory\obj\Debug\CateiaMemory.pdb
